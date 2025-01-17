@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Remotes -->
-   <remote name="Khnome" fetch="https://github.com/Khnome" clone-depth="1" />
+   <remote name="Khnome" fetch="https://github.com/Khnome" />
    <remote
         name="kami"
         fetch="https://github.com/kamikaonashi"
@@ -13,8 +13,8 @@
         fetch="https://github.com/crdroidandroid"
         clone-depth="1"
     />
-   <remote name="linag" fetch="https://github.com/LineageOS" clone-depth="1" />
-   <remote name="cumos" fetch="https://github.com/cumOS" clone-depth="1" />
+   <remote name="linag" fetch="https://github.com/LineageOS" />
+   <remote name="cumos" fetch="https://github.com/cumOS" />
 
 
  <!-- Tree -->
