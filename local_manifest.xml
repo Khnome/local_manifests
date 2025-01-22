@@ -22,7 +22,7 @@
         path="device/xiaomi/stone"
         name="device_xiaomi_stone"
         remote="Khnome"
-        revision="yaap-15"
+        revision="15-libperf"
     />
 
  <!-- Kernel -->
@@ -38,7 +38,7 @@
         path="vendor/xiaomi/stone"
         name="vendor_xiaomi_stone"
         remote="kami"
-        revision="15-perf"
+        revision="15-libperf"
     />
 
  <!-- Common Xiaomi Hardware Tree -->
