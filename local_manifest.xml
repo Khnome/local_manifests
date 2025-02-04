@@ -22,14 +22,14 @@
         path="device/xiaomi/stone"
         name="device_xiaomi_stone"
         remote="Khnome"
-        revision="15-libperf"
+        revision="vic"
     />
 
  <!-- Kernel -->
  <project
         path="device/xiaomi/stone-kernel"
         name="device_xiaomi_stone-kernel"
-        remote="kami"
+        remote="Khnome"
         revision="custom"
     />
 
@@ -37,7 +37,7 @@
  <project
         path="vendor/xiaomi/stone"
         name="vendor_xiaomi_stone"
-        remote="kami"
+        remote="Khnome"
         revision="15-libperf"
     />
 
